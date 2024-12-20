@@ -61,7 +61,8 @@
     {
       "group": "Architecture",
       "pages": [
-        "architecture/key-concepts"
+        "architecture/key-concepts",
+        "architecture/developer-resources"
       ]
     },
     {
