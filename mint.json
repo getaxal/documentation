@@ -1,0 +1,82 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Starter Kit",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#7c3aed",
+    "light": "#7c3aed",
+    "dark": "#7c3aed",
+    "anchors": {
+      "from": "#3b82f6",
+      "to": "#7c3aed"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Contact",
+      "url": "mailto:hello@getaxal.com"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Autopilot",
+    "url": "https://autopilot.getaxal.com/"
+  },
+  "tabs": [
+  ],
+  "anchors": [
+    {
+      "name": "Website",
+      "icon": "globe-pointer",
+      "url": "https://www.ax.al/"
+    },
+    {
+      "name": "Autopilot",
+      "icon": "plane-departure",
+      "url": "https://autopilot.getaxal.com/"
+    },
+    {
+      "name": "Blog",
+      "icon": "newspaper",
+      "url": "https://axal.substack.com/"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Overview",
+      "pages": [
+        "introduction"
+      ]
+    },
+    {
+      "group": "Autopilot",
+      "pages": [
+        "autopilot/overview",
+        "autopilot/guides"
+      ]
+    },
+    {
+      "group": "Architecture",
+      "pages": [
+        "architecture/key-concepts"
+      ]
+    },
+    {
+      "group": "Resources",
+      "pages": [
+        "resources/code"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "website": "https://www.ax.al/",
+    "x": "https://x.com/getaxal",
+    "discord": "https://discord.com/invite/5ZxJDwgnN6",
+    "github": "https://github.com/getaxal",
+    "youtube": "https://www.youtube.com/@getaxal?sub_confirmation=1",
+    "linkedin": "https://linkedin.com/company/getaxal"
+  }
+}
