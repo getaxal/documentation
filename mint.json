@@ -59,6 +59,12 @@
       ]
     },
     {
+      "group": "Gekko",
+      "pages": [
+        "gekko/overview"
+      ]
+    },
+    {
       "group": "Architecture",
       "pages": [
         "architecture/key-concepts",
