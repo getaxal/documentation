@@ -55,6 +55,9 @@
       "group": "Autopilot",
       "pages": [
         "autopilot/overview",
+        "autopilot/auto-rebalance",
+        "autopilot/yield-harvesting",
+        "autopilot/automated-orders",
         "autopilot/guides"
       ]
     },
